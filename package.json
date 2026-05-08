@@ -1,0 +1,28 @@
+{
+  "name": "brat-farel",
+  "version": "1.0.2",
+  "description": "Simple Brat & BratVid API Wrapper by Muhammad Farel",
+  "main": "index.js",
+  "keywords": [
+    "brat",
+    "bratvid",
+    "brat-farel",
+    "brat-generator",
+    "canvas",
+    "gif",
+    "mp4"
+  ],
+  "author": "Muhammad Farel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZELARIXA/brat-farel.git"
+  },
+  "homepage": "https://github.com/ZELARIXA/brat-farel",
+  "bugs": {
+    "url": "https://github.com/ZELARIXA/brat-farel/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
